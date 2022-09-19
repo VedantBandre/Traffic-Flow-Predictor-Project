@@ -44,6 +44,7 @@ Below are the name of 37 Streets:
     36. Tilak Rd and Firdausi Rd<br />
     37. Tilak Rd/Tilak Bridge/Tilak Flyover<br />
 
+The data was generated using the Google Maps Traffic API, at https://mapsplatform.google.com/
 
 This is a Flask API which is further deployed on Heroku, at https://traffic-flow-predictor.herokuapp.com/.
 
@@ -69,4 +70,3 @@ The whole Traffic Flow Predictor Project consists of
 1.  The ML Model from the repo https://github.com/gaga1313/Traffic-Flow-Prediction.git
 2.  API deployed on Heroku at https://traffic-flow-predictor.herokuapp.com/, from the repo https://github.com/VedantBandre/Traffic-Flow-Predictor-API.git
 3.  Flask App from the repo https://github.com/VedantBandre/Traffic-Flow-Predictor-App.git
-
