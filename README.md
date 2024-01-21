@@ -69,4 +69,4 @@ App Screenshots:
 The whole Traffic Flow Predictor Project consists of 
 1.  The ML Model from the repo https://github.com/gaga1313/Traffic-Flow-Prediction.git
 2.  API deployed on Heroku at https://traffic-flow-predictor.herokuapp.com/, from the repo https://github.com/VedantBandre/Traffic-Flow-Predictor-API.git
-3.  Flask App from the repo https://github.com/VedantBandre/Traffic-Flow-Predictor-App.git
+3.  Flutter App from the repo https://github.com/VedantBandre/Traffic-Flow-Predictor-App.git
