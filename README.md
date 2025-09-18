@@ -1,7 +1,13 @@
 # Traffic Flow Predictor Project
 
 A complete end-to-end **traffic congestion prediction system** built for Mumbai (Matunga ↔ Wadala corridor).  
-The project covers **37 streets** and achieves an accuracy of **97%** for congestion level prediction around Vidyalankar Institute of Technology, Wadala.  
+The project covers **37 streets** and achieves an accuracy of **97%** for congestion level prediction around Vidyalankar Institute of Technology, Wadala. 
+
+This project is the implementation of my research work **Gradient Boosting Approach for Traffic Flow Prediction Using CatBoost** published in **IEEE 2021 International Conference on Advances in Computing, Communication, and Control (ICAC3), Mumbai, India, 2021**.  
+You can read the full paper here:
+
+- [IEEE Xplore](https://ieeexplore.ieee.org/document/9697133)  
+- [DOI](https://doi.org/10.1109/ICAC353642.2021.9697133)  
 
 <!-- ![Street Map](https://github.com/gaga1313/Traffic-Flow-Prediction/blob/main/street%20map.jpeg?raw=true) -->
 <p align="center">
