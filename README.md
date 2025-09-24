@@ -9,10 +9,8 @@ You can read the full paper here:
 - [IEEE Xplore](https://ieeexplore.ieee.org/document/9697133)  
 - [DOI](https://doi.org/10.1109/ICAC353642.2021.9697133)  
 
-<!-- ![Street Map](https://github.com/gaga1313/Traffic-Flow-Prediction/blob/main/street%20map.jpeg?raw=true) -->
 <p align="center">
-    <img alt="map" src="https://github.com/user-attachments/assets/18a36f32-db20-43f2-9f77-4c35c79ab7ec" width="85%" />
-
+    <img alt="image" src="https://github.com/user-attachments/assets/86bcdd2f-3f76-4d5e-a968-824b585c8639" width="90%"/>
 </p>
 
 ---
@@ -81,6 +79,12 @@ The complete Traffic Flow Predictor consists of:
 
 The model covers the following **37 streets/intersections** between Matunga and Wadala:
 
+<!-- ![Street Map](https://github.com/gaga1313/Traffic-Flow-Prediction/blob/main/street%20map.jpeg?raw=true) -->
+<p align="center">
+    <img alt="map" src="https://github.com/user-attachments/assets/18a36f32-db20-43f2-9f77-4c35c79ab7ec" width="85%" height="50%" />
+
+</p>
+
 1. Adenwala Rd  
 2. Adenwala Rd and Nathalal Parekh Marg  
 3. Antop Hill Rd and Shaikh Misree Marg  
@@ -123,7 +127,7 @@ The model covers the following **37 streets/intersections** between Matunga and 
 
 ## Deployment
 
-- **Backend API** is live on Heroku:  
+- **Backend API** was live on Heroku:  
   https://traffic-flow-predictor.herokuapp.com/
 
 - **Mobile Application** can be built and run from the Flutter app repository:  
